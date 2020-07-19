@@ -1,0 +1,6 @@
+numpy
+matplotlib==3.2.2
+scikit-learn==0.23.1
+Dijkstar==2.5.0
+MiniSom==2.2.6
+open3d==0.10.0.0
